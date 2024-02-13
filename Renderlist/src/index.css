@@ -1,0 +1,15 @@
+*{
+    margin: 0;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.category-title{
+    font-size: 1.5rem;
+   text-align: center;
+    border: 1px solid ;
+    max-width: 250px;
+    background-color: aquamarine;
+    margin: 10px;
+}
+.list-itens{
+    margin: 10px;
+}
