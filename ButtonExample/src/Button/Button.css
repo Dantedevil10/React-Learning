@@ -1,0 +1,10 @@
+button{
+    border: none;
+    background-color: hsla(187, 74%, 45%, 0.699);
+    width: 100px;
+    height: 40px;
+    color: aliceblue;
+    border-radius:10px;
+    cursor: pointer;
+    margin: 3px;
+}
